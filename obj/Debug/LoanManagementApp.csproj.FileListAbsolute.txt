@@ -1,0 +1,7 @@
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\bin\Debug\LoanManagementApp.exe.config
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\bin\Debug\LoanManagementApp.exe
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\bin\Debug\LoanManagementApp.pdb
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\obj\Debug\LoanManagementApp.csprojAssemblyReference.cache
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\obj\Debug\LoanManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\obj\Debug\LoanManagementApp.exe
+C:\Users\DanielOyagha\Documents\DotNetClass&Assignments\LoanManagementApp\obj\Debug\LoanManagementApp.pdb
